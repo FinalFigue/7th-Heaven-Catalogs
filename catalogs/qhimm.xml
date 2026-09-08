@@ -633,21 +633,20 @@ Kaiseran,Sega Chief,Death Unites / 4-8Productions,Markul,CAulin and Postscriptth
 		
 Visual Changes and Battle UI:
 Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.
+	Download tne mod "Composition7" for extra features for FF7 What If...?	
 	For more info, tips, and recommendations, visit the link below:</Description>
     <LatestVersion>
       <Link>iros://GDrive/1efR8zxPRXF7Out5NJBgBvnTqedmJpksO</Link>
-      <Version>1.6</Version>
-      <ReleaseDate>2026-08-27</ReleaseDate>
+      <Version>1.7</Version>
+      <ReleaseDate>2026-09-08</ReleaseDate>
       <CompatibleGameVersions>Steam</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/sbJlAy6.jpeg</PreviewImage>
-      <ReleaseNotes>Ver. 1.6:
-- Recruiting Yuffie is now easier.
-- The first conversation with Cait Sith has been edited (Aeris).
-- The encounter rate for the appropriate Chocobos needed to obtain the Gold Chocobo has been increased: Good, Great, and Wonderful Chocobo.
-- The "Composition7" mod now includes more options for FF7 What If…?:
-- Enable a Kernel that provides additional options.
-- Enable the use of Mini Avatars in dialogues. All credit goes to the author "Chrysalis" for this great addition.</ReleaseNotes>
-      <DownloadSize>504535</DownloadSize>
+      <ReleaseNotes>Ver. 1.7:
+-Aegis Armlet now has Triple Growth.
+-Updated the Battle Simulator with new improvements.
+-The optional Kernel included in Composition7 now adds a new accessory:
+Mako Ring replaces Reflect Ring.</ReleaseNotes>
+      <DownloadSize>504535944</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=30625.0</Link>
     <DonationLink></DonationLink>
@@ -2074,11 +2073,13 @@ Requires Enhanced Stock UI
       <Link>https://forums.qhimm.com/index.php?topic=29682.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1ZzRfuJpF27L-UvrtNGl-CAulcKRRoU5U</Link>
-        <Version>1.3</Version>
-        <ReleaseDate>2026-08-27</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/AMx0PgL.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>294466880</DownloadSize>
+        <Version>1.4</Version>
+        <ReleaseDate>2026-09-08</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/ACuVsht.png</PreviewImage>
+        <ReleaseNotes/>Ver:1.4
+-Added two new Main Menu backgrounds featuring Cloud in the FFVIII art style.
+-Updated the optional Kernel for FF7 What If…? with a new accessory.</ReleaseNotes>
+        <DownloadSize>299566117</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Composition7</Name>
